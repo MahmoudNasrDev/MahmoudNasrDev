@@ -14,7 +14,7 @@ I am a passionate Flutter Developer from Egypt 🇪🇬, dedicated to building h
 * 🔥 Experienced with Firebase & REST APIs
 * 🎯 Focused on Clean Architecture & Performance
 * 💬 Ask me about Flutter, Dart, Firebase, Bloc, GetX
-* 📫 Reach me: [your-email@example.com](mailto:your-email@example.com)
+* 📫 Reach me: [your-email@example.com](mailto:your-Mahmoud nasr.com)
 
 <br>
 
